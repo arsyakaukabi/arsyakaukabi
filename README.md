@@ -1,12 +1,6 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsyakaukabi&theme=codeSTACKr)
-
-<body align="center">
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsyakaukabi&theme=codeSTACKr" alt="Repos per Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsyakaukabi&theme=codeSTACKr" alt="Most Commit Language">
-  </div>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsyakaukabi&theme=codeSTACKr" alt="Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsyakaukabi&theme=codeSTACKr&utcOffset=8" alt="Productive Time">
-  </div>
-</body>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arsyakaukabi&show_icons=true&rank_icon=github&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsyakaukabi&layout=compact&langs_count=8&theme=react&card_width=320" />
+</a>
